@@ -26,7 +26,11 @@
 
 まとめ  
 　会議ではgoogleハングアウト  
-　![googleハングアウト](https://github.com/Offshore-SBA/OffshoreDevelopmentMethods/tree/master/imeges/googlehangout.png)
+　![googleハングアウト](imeges/googlehangout.png)  
+　
+　担当者同時のコミュニケーションなら
+　![Sqwiggle](imeges/sqwiggle.jpg)　　
+　
 ## 2.ソース管理ツール
 ## 3.プロジェクト管理ツール
 ## 4.
