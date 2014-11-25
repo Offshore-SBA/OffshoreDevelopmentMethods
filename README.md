@@ -27,10 +27,10 @@
 まとめ  
 　会議ではgoogleハングアウト  
 　![googleハングアウト](imeges/googlehangout.png)  
-　
-　担当者同時のコミュニケーションなら
-　![Sqwiggle](imeges/sqwiggle.jpg)　　
-　
+  　
+　担当者同時のコミュニケーションなら  
+　![Sqwiggle](imeges/sqwiggle.jpg)     
+  　
 ## 2.ソース管理ツール
 ## 3.プロジェクト管理ツール
 ## 4.
